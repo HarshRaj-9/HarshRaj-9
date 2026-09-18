@@ -3,9 +3,13 @@
 ### Java Backend Developer @ Mphasis
 
 🚀 Passionate about building scalable and reliable backend applications.
+
 🌱 Currently working with Java, Spring Boot, Microservices and REST APIs.
+
 💻 Interested in Backend Development, System Design and Distributed Systems.
+
 💬 Ask me about Java, Spring Boot, REST APIs, Hibernate and Microservices.
+
 ⚡ I enjoy solving programming problems and learning new technologies.
 
 ---
